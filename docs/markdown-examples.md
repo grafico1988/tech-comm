@@ -24,16 +24,16 @@ Nagłówek drugiego poziomu
 ### Nagłówki (atx)
 
 ### Cytaty
-Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków 
+Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków >
 
-####Składnia
+#### Składnia
 ```markdown
 > To jest blok cytatu.
 >
 > To jest drugi akapit w bloku cytatu.
 >
 ```
-####Wynik
+#### Wynik
 ```html
     <p>To jest blok cytatu.</p>
     <p>To jest drugi akapit w bloku cytatu.</p>
