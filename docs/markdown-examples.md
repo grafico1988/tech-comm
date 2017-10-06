@@ -21,12 +21,12 @@ Nagłówek drugiego poziomu
 <h2>Nagłówek drugiego poziomu</h2>
 ```
 
-### Nagłówki (atx) <!---  -->
+### Nagłówki (atx)
 
-### Cytaty <!---  -->
-Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków 
+### Cytaty
+Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków '''>
 
-###Składnia
+####Składnia
 '''markdown
 > To jest blok cytatu.
 >
