@@ -27,16 +27,16 @@ Nagłówek drugiego poziomu
 Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków '''>
 
 ####Składnia
-'''markdown
+```markdown
 > To jest blok cytatu.
 >
 > To jest drugi akapit w bloku cytatu.
 >
-'''
+```
 ####Wynik
 ```html
     <p>To jest blok cytatu.</p>
-    <p>To jest drugi akapit w bloku cytatu.</p>
+    <p>To jest drugi akapit w bloku cytatu.</p>
 ```
 
 
