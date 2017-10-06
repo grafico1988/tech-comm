@@ -18,15 +18,6 @@ Nagłówek drugiego poziomu
 #### Wynik
 ```html
 <h1>Nagłówek pierwszego poziomu</h1>
-dnia
-
-
-####Wynik
-
-> To jest blok cytatu.
->
-> To jest drugi akapit w bloku cytatu.
->
 <h2>Nagłówek drugiego poziomu</h2>
 ````
 
@@ -35,7 +26,17 @@ dnia
 ### Cytaty <!---  -->
 Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>”.
 
-####Skła
+####Składnia
+> To jest blok cytatu.>> To jest drugi akapit w bloku cytatu.>
+
+####Wynik
+<blockquote>
+    <p>To jest blok cytatu.</p>
+
+    <p>To jest drugi akapit w bloku cytatu.</p>
+</blockquote>
+
+
 
 ### Emfaza fragmentów tekstu <!---  -->
 
