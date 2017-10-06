@@ -32,12 +32,11 @@ Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>
 > To jest drugi akapit w bloku cytatu.
 >
 ####Wynik
-<blockquote>
+```<blockquote>
     <p>To jest blok cytatu.</p>
-
     <p>To jest drugi akapit w bloku cytatu.</p>
 </blockquote>
-
+```
 
 
 ### Emfaza fragmentów tekstu <!---  -->
