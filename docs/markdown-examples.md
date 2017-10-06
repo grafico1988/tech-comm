@@ -25,6 +25,14 @@ Nagłówek drugiego poziomu
 ### Nagłówki (atx) <!---  -->
 
 ### Cytaty <!---  -->
+Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>”.
+####Składnia
+
+
+####Wynik
+> To jest blok cytatu.>
+> To jest drugi akapit w bloku cytatu.>
+
 
 ### Emfaza fragmentów tekstu <!---  -->
 
