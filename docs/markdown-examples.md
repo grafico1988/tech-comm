@@ -28,8 +28,9 @@ Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>
 
 ####Składnia
 > To jest blok cytatu.
+>
 > To jest drugi akapit w bloku cytatu.
-
+>
 ####Wynik
 <blockquote>
     <p>To jest blok cytatu.</p>
