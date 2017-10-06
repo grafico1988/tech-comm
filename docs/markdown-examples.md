@@ -28,15 +28,15 @@ Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków >
 
 #### Składnia
 ```markdown
-> To jest blok cytatu.
+> To jest blok cytatu zapisany w notacji markdown.
 >
-> To jest drugi akapit w bloku cytatu.
+> To jest drugi akapit w bloku cytatu zapisany w notacji markdown.
 >
 ```
 #### Wynik
 ```html
-    <p>To jest blok cytatu.</p>
-    <p>To jest drugi akapit w bloku cytatu.</p>
+    <p>To jest blok cytatu zapisany w html.</p>
+    <p>To jest drugi akapit w bloku cytatu zapisany w html.</p>
 ```
 
 
