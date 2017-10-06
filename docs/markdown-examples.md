@@ -19,7 +19,7 @@ Nagłówek drugiego poziomu
 ```html
 <h1>Nagłówek pierwszego poziomu</h1>
 <h2>Nagłówek drugiego poziomu</h2>
-````
+```
 
 ### Nagłówki (atx) <!---  -->
 
@@ -37,7 +37,6 @@ Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków „>
 ```html
     <p>To jest blok cytatu.</p>
     <p>To jest drugi akapit w bloku cytatu.</p>
-
 ```
 
 
